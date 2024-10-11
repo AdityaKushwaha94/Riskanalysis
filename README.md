@@ -41,7 +41,7 @@ pip install pandas numpy scikit-learn imbalanced-learn
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+(https://github.com/AdityaKushwaha94/Riskanalysis/)
 ```
 
 2. Navigate to the project directory:
